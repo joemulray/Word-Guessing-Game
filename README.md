@@ -1,8 +1,8 @@
-# Hangman-Game in java.
+# Word-Guessing-Game in java.
 
 ```
-git clone https://github.com/joemulray/Hangman-Game.git
-cd Hangman-Game
+git clone https://github.com/joemulray/Word-Guessing-Game.git
+cd Word-Guessing-Game/
 ```
 
 > To Run Game:
