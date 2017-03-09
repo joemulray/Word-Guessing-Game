@@ -1,3 +1,15 @@
 # Hangman-Game in java.
 
-> Need to include txt files for program.
+> Included Makefile
+> In directory of folder where downloaded.
+Run
+```
+make
+```
+
+> When finished playing:
+
+```
+make clean
+```
+

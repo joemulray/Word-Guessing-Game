@@ -4,7 +4,7 @@
 import javax.swing.JOptionPane;
 import java.util.*;				//import declarations
 import java.io.*;
-public class FinalProject {
+public class App {
 
 
 

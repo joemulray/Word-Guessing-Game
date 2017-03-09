@@ -2,14 +2,14 @@ import javax.swing.JOptionPane;
 import java.util.*;
 import java.io.*;
 
-public class FinalProjectClass
+public class Start
 {
 
 	String [] array;
 	String word;
 
 
-    public FinalProjectClass() throws IOException
+    public Start() throws IOException
     {
     	array = new String[10];
     	getFile();

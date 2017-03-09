@@ -79,6 +79,7 @@ public class Game{
 				}
 			JOptionPane.showMessageDialog(null, "You won " + numTries + " time(s)\nThanks for playing!\nCome again!");
 
+
     	}
 
 
