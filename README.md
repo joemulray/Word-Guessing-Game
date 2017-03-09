@@ -1,8 +1,12 @@
 # Hangman-Game in java.
 
-> Included Makefile
-> In directory of folder where downloaded.
-Run
+```
+git clone https://github.com/joemulray/Hangman-Game.git
+cd Hangman-Game
+```
+
+> To Run Game:
+
 ```
 make
 ```
